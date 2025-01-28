@@ -18,3 +18,13 @@ body{
     font-size:2.6rem;
     color: white;
 }
+.blocstart{
+    margin: 10rem auto;
+    padding: 3rem;
+    background-color: var(--DarkBlue);
+    width:100%;
+    max-width: 400px;
+    min-width: 200px;
+    height: 100%;
+    max-height: ;
+}
